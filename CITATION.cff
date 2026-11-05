@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use or adapt this file, please cite it as below."
+title: "AGENTS.md for risk and finance"
+type: software
+authors:
+  - family-names: Gupta
+    given-names: Sarthak
+    website: "https://sarthakgpt.com"
+date-released: 2026-11-04
+version: "1.0.0"
+url: "https://github.com/sarthakguptaquant/agents-md-risk-finance"
+abstract: "A drop-in AGENTS.md instruction file for coding agents working in risk and finance: verify before asserting, gate actions by consequence, stop when a control fails, keep a record that answers four questions. Take-home kit from the invited talk 'Designing Oversight In' at IOCRF 2026."
+keywords: [agents.md, ai agents, model risk, risk management, finance, governance, coding agents]
+license: MIT
